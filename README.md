@@ -49,7 +49,7 @@ modify config in ytsetcc.py:
 
 3. Upload generated video to YouTube
 
-4. Wait few hours for subtitles to be generated
+4. Wait few hours for new subtitles to be generated
 
 
 
