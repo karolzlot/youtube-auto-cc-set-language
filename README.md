@@ -28,7 +28,7 @@ https://mediaarea.net/en/MediaInfo
        pip install pymediainfo
 
     
-ffmpeg, mkvtoolnix, youtube-dl,MediaInfo need to be on PATH
+ffmpeg, mkvtoolnix, youtube-dl, MediaInfo need to be on PATH
 
 Usage
 ------------
