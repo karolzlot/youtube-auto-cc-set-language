@@ -19,14 +19,16 @@ Setup
 
 1. Install ffmpeg
 2. install mkvtoolnix
-2. Install python package:
+3. If not on Windows install MediaInfo
+https://mediaarea.net/en/MediaInfo
+4. install youtube-dl 
+5. Install python package:
 
   
        pip install pymediainfo
-4. If not on Windows install MediaInfo
-https://mediaarea.net/en/MediaInfo
-    
 
+    
+ffmpeg, mkvtoolnix, youtube-dl,MediaInfo need to be on PATH
 
 Usage
 ------------
