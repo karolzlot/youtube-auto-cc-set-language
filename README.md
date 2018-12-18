@@ -8,6 +8,8 @@ Allows you to set language of youtube auto generated subtitles
 
 If you have any question, open an issue :-)
 
+Star if you like it 
+
 Pull requests are welcome
 
 Tested on Windows
