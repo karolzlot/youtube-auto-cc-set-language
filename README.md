@@ -14,6 +14,24 @@ Pull requests are welcome
 
 Tested on Windows
 
+Example result
+------------
+
+Before:
+
+https://www.youtube.com/watch?v=_H3aw6wkCv0
+
+German auto subtitles
+
+--------
+
+
+After:
+
+https://www.youtube.com/watch?v=mpr56rFH4UY
+
+English auto subtitles
+
 Setup
 -----
 
@@ -50,6 +68,8 @@ modify config in ytsetcc.py:
 3. Upload generated video to YouTube
 
 4. Wait few hours for new subtitles to be generated
+
+
 
 
 
